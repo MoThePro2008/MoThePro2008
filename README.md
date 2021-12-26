@@ -6,8 +6,6 @@
 - 🎨 Mastering vector art  
 - 🎺 I play the trumpet
 
-* * *
-
 ### 🛠️ Languages and Tools 🛠️
 
 *   **Languages**  
@@ -21,22 +19,12 @@
 *   **OS**  
     [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
-* * *
-
 ### 📊 GitHub Stats 📊
 
-![](https://github-readme-streak-stats.herokuapp.com?user=MoThePro2008&theme=algolia&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak Stats for MoThePro2008](https://github-readme-streak-stats.herokuapp.com?user=MoThePro2008&theme=algolia&date_format=j%20M%5B%20Y%5D)
 
 ![GitHub Stats for MoThePro2008](https://github-readme-stats.vercel.app/api?username=MoThePro2008&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&layout=compact)
 
-* * *
-
 ### 📱 Contact Me 📱
 
-[![Mohamed | Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohamedAwadalk3)
-
-[![Mohamed | Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed_awadalkarim/)
-
-[![Mohamed | Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/725696142800715846)
-
-[![Mohamed | Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedawadalkarim57@gmail.com)
+[![Mohamed | Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohamedAwadalk3) [![Mohamed | Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed_awadalkarim/) [![Mohamed | Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/725696142800715846) [![Mohamed | Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedawadalkarim57@gmail.com)
