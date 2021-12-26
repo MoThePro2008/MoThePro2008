@@ -1,10 +1,13 @@
-# 👋 Hi there, I'm Mohamed 👋
+<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h3 align="center">A student, amateur vector artist and beginner web developer</h3>
 
-### I'm a student, amateur vector artist and beginner web developer!
+- 🔭 **I'm working on developing my personal website**  
 
-- 💻 I'm working on developing my personal website  
-- 🎨 Mastering vector art  
-- 🎺 I play the trumpet
+- 🌱 **I’m currently learning React and Javascript**
+
+- 🎨 **Mastering vector art**
+
+- 🩺 **I'd like to pursue medicine when I'm older**
 
 ### 🛠️ Languages and Tools 🛠️
 
@@ -25,6 +28,8 @@
 
 ![GitHub Stats for MoThePro2008](https://github-readme-stats.vercel.app/api?username=MoThePro2008&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&layout=compact)
 
+![GitHub Top Languages States for MoThePro2008](https://github-readme-stats.vercel.app/api/top-langs?username=mothepro2008&show_icons=true&locale=en&layout=compact&theme=algolia)
+
 ### 📱 Contact Me 📱
 
-[![Mohamed | Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohamedAwadalk3) [![Mohamed | Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed_awadalkarim/) [![Mohamed | Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/725696142800715846) [![Mohamed | Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedawadalkarim57@gmail.com)
+[![Mohamed | Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohamedAwadalk3) [![Mohamed | Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed_awadalkarim/) [![Mohamed | Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/725696142800715846) [![Mohamed | Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedawadalkarim57@gmail.com)</p>
