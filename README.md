@@ -1,9 +1,11 @@
  <h1>Hi there, I'm <a href="https://www.mohamedawadalkarim.gq" target="_blank">Mohamed</a>! 👋</h1>
 
 <h3>I'm a student, amateur vector artist and beginner web developer!</h3>
-- 💻 I'm working on developing my personal website
+<p></p>- 💻 I'm working on developing my personal website
+<br>
 - 🎨 Mastering vector art
-- 🎺 I play the trumpet
+<br>
+- 🎺 I play the trumpet</p>
 
 <h3>Contact Me</h3>
 <ul>
