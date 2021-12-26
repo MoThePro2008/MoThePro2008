@@ -13,6 +13,7 @@
 <a href="#"><img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="#"><img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img align="center" alt="GitHub" src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img align="center" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"></a>
 <hr>
 
 <h3>📊 GitHub Stats</h3>
@@ -21,7 +22,8 @@
 <hr>
 
 <h3>📞 Contact Me</h3>
-<a href="https://twitter.com/MohamedAwadalk3" target="_blank"><img align="center" alt="Mohamed | Twitter" width="22px" src="Icons/twitter.png"/></a>
-<a href="https://www.instagram.com/mohamed_awadalkarim/" target ="_blank"><img align="center" alt="Mohamed | Instagram" width="22px" src="Icons/instagram.png"/></a>
-<a href="https://discord.com/users/725696142800715846" target ="_blank"><img align="center" alt="Mohamed | Discord" width="22px" src="Icons/discord.png"/></a>
-<a href="mailto:mohamedawadalkarim57@gmail.com" target ="_blank"><img align="center" alt="Mohamed | Email" width="22px" src="Icons/gmail.png"/></a>
+<a href="https://twitter.com/MohamedAwadalk3" target="_blank"><img align="center" alt="Mohamed | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/mohamed_awadalkarim/" target ="_blank"><img align="center" alt="Mohamed | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://discord.com/users/725696142800715846" target ="_blank"><img align="center" alt="Mohamed | Discord" width="22px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+"/></a>
+<a href="mailto:mohamedawadalkarim57@gmail.com" target ="_blank"><img align="center" alt="Mohamed | Email" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
