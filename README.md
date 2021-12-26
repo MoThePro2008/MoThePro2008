@@ -1,47 +1,42 @@
-<h1>👋 Hi there, I'm Mohamed 👋</h1>
+# 👋 Hi there, I'm Mohamed 👋
 
-<h3>I'm a student, amateur vector artist and beginner web developer!</h3>
-<p></p>- 💻 I'm working on developing my personal website
-<br>
-- 🎨 Mastering vector art
-<br>
-- 🎺 I play the trumpet</p>
-<hr>
+### I'm a student, amateur vector artist and beginner web developer!
 
-<h3>🛠️ Languages and Tools 🛠️</h3>
-<ul>
-  <li>
-    <b>Languages</b>
-    <a href="#"><img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="#"><img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-  </li>
-  <li>
-    <b>IDE</b>
-    <a href="#"><img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-  </li>
-  <li>
-    <b>Software</b>
-    <a href="#"><img align="center" alt="GitHub" src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="#"><img align="center" alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"></a>
-  <li>
-    <b>Workspace</b>
-    <a href="#"><img align="center" alt="HP Laptop" src="https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white"></a>
-  </li>
-  <li>
-    <b>OS</b>
-    <a href="#"><img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-  </li>
-<ul>
-<hr>
+- 💻 I'm working on developing my personal website  
+- 🎨 Mastering vector art  
+- 🎺 I play the trumpet
 
-<h3>📊 GitHub Stats 📊</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MoThePro2008&theme=algolia&date_format=j%20M%5B%20Y%5D" width="700">
-<img src="https://github-readme-stats.vercel.app/api?username=MoThePro2008&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&layout=compact" alt="GitHub Stats for MoThePro2008" width="700">
-<hr>
+* * *
 
-<h3>📱 Contact Me 📱</h3>
-<a href="https://twitter.com/MohamedAwadalk3" target="_blank"><img align="center" alt="Mohamed | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/mohamed_awadalkarim/" target ="_blank"><img align="center" alt="Mohamed | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://discord.com/users/725696142800715846" target ="_blank"><img align="center" alt="Mohamed | Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-"/></a>
-<a href="mailto:mohamedawadalkarim57@gmail.com" target ="_blank"><img align="center" alt="Mohamed | Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### 🛠️ Languages and Tools 🛠️
+
+*   **Languages**  
+    [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
+*   **IDE**  
+    [![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+*   **Software**  
+    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white")](#) [![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](#)
+*   **Workspace**  
+    [![HP Laptop](https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)](#)
+*   **OS**  
+    [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+
+* * *
+
+### 📊 GitHub Stats 📊
+
+![](https://github-readme-streak-stats.herokuapp.com?user=MoThePro2008&theme=algolia&date_format=j%20M%5B%20Y%5D)
+
+![GitHub Stats for MoThePro2008](https://github-readme-stats.vercel.app/api?username=MoThePro2008&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&layout=compact)
+
+* * *
+
+### 📱 Contact Me 📱
+
+[![Mohamed | Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohamedAwadalk3)
+
+[![Mohamed | Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed_awadalkarim/)
+
+[![Mohamed | Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/725696142800715846)
+
+[![Mohamed | Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedawadalkarim57@gmail.com)
