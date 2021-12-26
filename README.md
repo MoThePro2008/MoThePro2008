@@ -21,11 +21,9 @@
 
 ### 📊 GitHub Stats 📊
 
-<p align="center">
 ![GitHub Streak Stats for MoThePro2008](https://github-readme-streak-stats.herokuapp.com?user=MoThePro2008&theme=algolia&date_format=j%20M%5B%20Y%5D)
 
 ![GitHub Stats for MoThePro2008](https://github-readme-stats.vercel.app/api?username=MoThePro2008&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&layout=compact)
-</p>
 
 ### 📱 Contact Me 📱
 
