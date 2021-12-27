@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A student, amateur vector artist and beginner web developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&multiline=true&lines=Hi%2C+I'm+Mohamed;A+student%2C+amateur+artist+and+beginner+web+developer)]
 
 - 🔭 **I'm working on developing my personal website**  
 
