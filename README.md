@@ -24,12 +24,12 @@
 
 ### 📊 GitHub Stats 📊
 
-![GitHub Streak Stats for MoThePro2008](https://github-readme-streak-stats.herokuapp.com?user=MoThePro2008&theme=algolia&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak Stats for MoThePro2008](https://github-readme-streak-stats.herokuapp.com?user=MoThePro2008&title_color=0096c7&text_color=48cae4&icon_color=ade8f4&border_color=000000&bg_color=001233&date_format=j%20M%5B%20Y%5D)
 
-![GitHub Stats for MoThePro2008](https://github-readme-stats.vercel.app/api?username=MoThePro2008&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&layout=compact)
+![GitHub Stats for MoThePro2008](https://github-readme-stats.vercel.app/api?username=MoThePro2008&show_icons=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true&title_color=0096c7&text_color=48cae4&icon_color=ade8f4&border_color=000000&bg_color=001233)
 
-![GitHub Top Languages States for MoThePro2008](https://github-readme-stats.vercel.app/api/top-langs?username=mothepro2008&show_icons=true&locale=en&layout=compact&theme=algolia)
+![GitHub Top Languages States for MoThePro2008](https://github-readme-stats.vercel.app/api/top-langs?username=mothepro2008&show_icons=true&locale=en&layout=compact&title_color=0096c7&text_color=48cae4&icon_color=ade8f4&border_color=000000&bg_color=001233)
 
 ### 📱 Contact Me 📱
 
-[![Mohamed | Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohamedAwadalk3) [![Mohamed | Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed_awadalkarim/) [![Mohamed | Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/725696142800715846) [![Mohamed | Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedawadalkarim57@gmail.com)</p>
+[![Mohamed | Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohamedAwadalk3) [![Mohamed | Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed_awadalkarim/) [![Mohamed | Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/725696142800715846) [![Mohamed | Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedawadalkarim57@gmail.com)
