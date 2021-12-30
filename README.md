@@ -24,9 +24,9 @@
 
 ### 📊 GitHub Stats 📊
 
-![GitHub Stats for MoThePro2008](https://github-readme-stats.vercel.app/api?username=MoThePro2008&show_icons=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true&title_color=0096c7&text_color=48cae4&icon_color=ade8f4&border_color=000000&bg_color=001233)
+![GitHub Stats for mo7aw08](https://github-readme-stats.vercel.app/api?username=mo7aw08&show_icons=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true&title_color=0096c7&text_color=48cae4&icon_color=ade8f4&border_color=000000&bg_color=001233)
 
-![GitHub Top Languages States for MoThePro2008](https://github-readme-stats.vercel.app/api/top-langs?username=mothepro2008&show_icons=true&locale=en&layout=compact&title_color=0096c7&text_color=48cae4&icon_color=ade8f4&border_color=000000&bg_color=001233)
+![GitHub Top Languages States for mo7aw08](https://github-readme-stats.vercel.app/api/top-langs?username=mothepro2008&show_icons=true&locale=en&layout=compact&title_color=0096c7&text_color=48cae4&icon_color=ade8f4&border_color=000000&bg_color=001233)
 
 ### 📱 Contact Me 📱
 
